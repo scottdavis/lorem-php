@@ -5,4 +5,4 @@ example uses
 5 words - Lorem::words(5)
 5 paragraphs - Lorem::paragrahs(5)
 ** note paragraphs are wraped in p tags pass false if you don't want this - Lorem::paragrahs(5, false)
-4 characters - Lorem::chars(5)
+5 characters - Lorem::chars(5)
